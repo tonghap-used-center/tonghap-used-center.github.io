@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tonghap-used-center.github.io/tonghap-center/sitemap.xml
